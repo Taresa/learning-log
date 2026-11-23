@@ -24,7 +24,7 @@ The projects planned in hello-claude are starting hypotheses, not commitments. S
 
 ## How this log is organized
 
-One file per working session, in [`entries/`](entries/), named `session-NN.md`. Every entry uses the same three sections:
+One file per working session, in [`entries/`](entries/), named `session-NN.md`. Entries are built around three core sections, and some add a short extra section, such as a concept explained or what's next:
 
 | Section | Question it answers |
 |---------|---------------------|
