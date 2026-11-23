@@ -41,6 +41,12 @@ Entries are written close to the session while the details are fresh, and they s
 | [01](entries/session-01.md) | 2026-11-20 | First Claude Code tour; hello-claude repo published |
 | [02](entries/session-02.md) | 2026-11-21 | Learning log set up as its own public repo |
 | [03](entries/session-03.md) | 2026-11-21 | Personal website v0 built and launched at taresa.github.io |
+| [04](entries/session-04.md) | 2026-11-22 | GitHub profile README, bio and pinned repos |
+| [05](entries/session-05.md) | 2026-11-22 | Website code walkthrough, Experience toggles, glossary started |
+
+## Glossary
+
+Plain-English definitions of the technical terms I've met, and where I met them, are in [glossary.md](glossary.md).
 
 ## Related
 
